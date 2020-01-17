@@ -1,0 +1,2 @@
+# djangoprojects
+Basic django documentation
